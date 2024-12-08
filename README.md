@@ -7,7 +7,7 @@ Enjoy the diverse features of the *B<a><img src='https://i.imgur.com/LyHic3i.gif
   <a href="https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D">
     <img alt="wasi" height="400" src="https://files.catbox.moe/ei4pap.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">BHERON MD</h1>
+   <h1 align="center">BEEZY MD</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
