@@ -5,7 +5,7 @@ Enjoy the diverse features of the *B<a><img src='https://i.imgur.com/LyHic3i.gif
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vb0fmRdGzzKaljQJ7V0I">
-    <img alt="wasi" height="400" src="https://files.catbox.moe/ei4pap.jpg">
+    <img alt="wasi" height="400" src="https://files.catbox.moe/ei4pp.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">BEEZY MD</h1>
   </a>
@@ -15,7 +15,7 @@ Enjoy the diverse features of the *B<a><img src='https://i.imgur.com/LyHic3i.gif
  
 </p>
 <p align="center">
-<a href="https://github.com/BeezyHacker"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/GL85xQXuJhRFZ7KIphLCR9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-yellow?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/880 1602-072612"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/BeezyHacker"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vb0fmRdGzzKaljQJ7pa"><img title="Author" src="https://img.shields.io/badge/CHANNEL-yellow?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/880 1602-072612"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
