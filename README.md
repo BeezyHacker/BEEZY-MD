@@ -4,7 +4,7 @@ Enjoy the diverse features of the *B<a><img src='https://i.imgur.com/LyHic3i.gif
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=red+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BEEZY+MD+;A+WHATSAPP+BOT;CREATED+BY+BEEZY" alt="Typing SVG" /></a>
 
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D">
+  <a href="https://whatsapp.com/channel/0029Vb0fmRdGzzKaljQJ7V0I">
     <img alt="wasi" height="400" src="https://files.catbox.moe/ei4pap.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">BEEZY MD</h1>
@@ -15,14 +15,14 @@ Enjoy the diverse features of the *B<a><img src='https://i.imgur.com/LyHic3i.gif
  
 </p>
 <p align="center">
-<a href="https://github.com/djbheron100"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/GL85xQXuJhRFZ7KIphLCR9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-yellow?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/880 1602-072612"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/BeezyHacker"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/GL85xQXuJhRFZ7KIphLCR9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-yellow?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/880 1602-072612"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<a href="https://github.com/djbheron100?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/botdep24?label=Followers&style=social"></a>
-<a href="https://github.com/djbheron100/JEEP/bheron-md/"><img title="Stars" src="https://img.shields.io/github/stars/djbheron100/bheron-md?&style=social"></a>
-<a href="https://github.com/djbheron100/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/djbheron100/bheron-md?style=social"></a>
-<a href="https://github.com/djbheron100/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/djbheron100/bheron-md?label=Watching&style=social"></a>
+<a href="https://github.comd/BeezyHacker?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/botdep24?label=Followers&style=social"></a>
+<a href="https://github.com/BeezyHacker/JEEP/BEEZY-MD/"><img title="Stars" src="https://img.shields.io/github/stars/BeezyHacker/BEEZY-MD?&style=social"></a>
+<a href="https://github.com/BeezyHacker/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/BeezyHacker/BEEZY-MD?style=social"></a>
+<a href="https://github.com/BeezyHacker/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BeezyHacker/BEEZY-MD?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -44,7 +44,7 @@ Enjoy the diverse features of the *B<a><img src='https://i.imgur.com/LyHic3i.gif
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/djbheron100/Bheron-md_Dragon&template=https://github.com/djbheron100/Bheron-md"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=dragon" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/BeezyHacker/BEEZY-MD_Dragon&template=https://github.com/BeezyHacker/BEEZY-MD"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=dragon" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -54,8 +54,8 @@ Enjoy the diverse features of the *B<a><img src='https://i.imgur.com/LyHic3i.gif
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Join my channel for updates
-<a href="https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://chat.whatsapp.com/GL85xQXuJhRFZ7KIphLCR9?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://https://whatsapp.com/channel/0029Vb0fmRdGzzKaljQJ7V0I" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vb0fmRdGzzKaljQJ7V0I?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@ Enjoy the diverse features of the *B<a><img src='https://i.imgur.com/LyHic3i.gif
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/880 1602-072612">
+   <a href="https://wa.me/717037988">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -102,18 +102,18 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *BHERON* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *BEEZY* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## License
 
-The *BHERON* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *BEEZY* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *BHERON*  to enhance your Whatsapp more enjoyable
-☣Powered by official bheron
+☣Powered by BEEZY
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 HERON*  to enhance your Whatsapp more enjoyable
-☣Powered by official bheron
+☣Powered by BEEZY
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
