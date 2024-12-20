@@ -5,7 +5,7 @@ Enjoy the diverse features of the *B<a><img src='https://i.imgur.com/LyHic3i.gif
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vb0fmRdGzzKaljQJ7V0I">
-    <img alt="wasi" height="400" src="https://files.catbox.moe/ei4pp.jpg">
+    <img alt="wasi" height="400" src="https://files.catbox.moe/kqyqj6.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">BEEZY MD</h1>
   </a>
